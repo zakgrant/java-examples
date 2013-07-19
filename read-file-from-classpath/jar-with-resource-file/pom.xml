@@ -7,12 +7,11 @@
     <parent>
         <groupId>org.zak.experiment</groupId>
         <artifactId>read-file-from-classpath</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <groupId>org.zak.experiment</groupId>
     <artifactId>jar-with-resource-file</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
-    
 </project>
